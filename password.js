@@ -12,7 +12,7 @@ reader.question('Please Validate your password: ',
     function(input){
 	    password = input
 
-    if (password.length > 10) {
+    if (password.length >= 10) {
         console.log()
         console.log('Success!')
     }else {
