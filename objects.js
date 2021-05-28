@@ -24,8 +24,6 @@ let me = {
   }
 }
 
-
-
 //////////////////PROBLEM 2////////////////////
 /*
   Write a function called carFactory that takes in three parameters: a make, model, and year.  
